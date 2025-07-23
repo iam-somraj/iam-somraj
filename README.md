@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/iam-somraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iam-somraj" height="30" width="40" /></a>
 <a href="https://twitter.com/iam_somraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_somraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/somraj-ghosh-1562a4371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somraj-ghosh-1562a4371/" height="30" width="40" /></a>
 <a href="https://kaggle.com/iamsomraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iamsomraj" height="30" width="40" /></a>
 <a href="https://fb.com/iam.ssomraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iam.ssomraj" height="30" width="40" /></a>
 <a href="https://instagram.com/iam.somraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.somraj" height="30" width="40" /></a>

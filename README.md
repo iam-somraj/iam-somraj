@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Somraj</h1>
 <h3 align="center">💻 Self-taught programmer | AI & Web Developer</h3>
 
-- 📹 YouTuber 5+ Years with 100+ coding tutorials (https://www.youtube.com/@CodroidOfficial)
+- 📹 YouTuber 5+ Years with 100+ [coding tutorials](https://www.youtube.com/@CodroidOfficial)
 
 - 🔭 Currently working on: **AI projects, Web tools, and open-source**
 
 - 🧠 Learning: **Deep Learning, FastAPI, and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://codroid.netlify.app/](https://codroid.netlify.app/)
+- 👨‍💻 All of my projects are available at [CoDroiD](https://codroid.netlify.app/](https://codroid.netlify.app/)
 
 - 🛠️ Building V@@@@@e, **my own programming language**
 

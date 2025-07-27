@@ -7,11 +7,11 @@
 
 - 🧠 Learning: **Deep Learning, FastAPI, and Next.js**
 
-- 👨‍💻 All of my projects are available at [CoDroiD](https://codroid.netlify.app/](https://codroid.netlify.app/)
+- 👨‍💻 All of my projects are available at [CoDroiD](https://codroid.netlify.app/)
 
 - 🛠️ Building V@@@@@e, **my own programming language**
 
-- 📫 How to reach me **iamsomrajghosh@gmail.com**
+- 📫 How to reach me <a href="mailto:someone@example.com">**iamsomrajghosh@gmail.com**</a>
 
 - 💼 Aspiring AI Developer **& Cinematic Video Editor**
 
